@@ -1,0 +1,15 @@
+{
+ "name": "Private.Finance",
+ "short_name": "Private.Finance",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#f6f3ec",
+ "theme_color": "#0d1b1e",
+ "icons": [
+  {
+   "src": "favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}
